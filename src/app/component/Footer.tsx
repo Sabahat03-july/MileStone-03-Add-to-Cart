@@ -48,8 +48,7 @@ const Footer = () => {
 
     
     </div>
-    <h1 className='text-[15px] text-gray-600 lg:pl-[530px] md:pl-[330px] sm:pl-[230px] pl-[60px]'> PAKISTAN: Powerd by ROLEXgit config --global user.name "Your Name"
-git config --global user.email "your.email@example.com"
+    <h1 className='text-[15px] text-gray-600 lg:pl-[530px] md:pl-[330px] sm:pl-[230px] pl-[60px]'> PAKISTAN: Powerd by ROLEX
 ®  Creators</h1>
     </div>
     </>
