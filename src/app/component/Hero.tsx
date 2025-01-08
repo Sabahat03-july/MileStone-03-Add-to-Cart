@@ -4,7 +4,7 @@ import line from '../assets/line.png';
 const FifthPag = () => {
   return (
     <div className="flex items-center justify-center min-h-screen pt-[70px]">
-      <div className="flex flex-col sm:flex-row items-center justify-around p-6 w-full sm:w-[1050px] sm:h-[550px] bg-[#c4ebe1]">
+      <div className="flex flex-col sm:flex-row items-center justify-around p-6 w-full sm:w-[1050px] sm:h-[550px] bg-[#c4ebe1] rounded">
 
         {/* Left Side: Image */}
         <div className="sm:w-1/2 sm:pr-4 mb-6 sm:mb-0 order-2 sm:order-1 mt-5">
